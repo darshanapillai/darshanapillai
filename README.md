@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there..!!👋
 
 <!--
 **darshanapillai/darshanapillai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-An enthusiastic developer,looking forward to evaluating my inherent abilities and potential.
+An enthusiastic developer with 6 months of industrial experience,looking forward to evaluating my inherent abilities and potential.
 
 Skilled in :
 
