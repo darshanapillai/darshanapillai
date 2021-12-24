@@ -18,7 +18,7 @@ An enthusiastic developer with 6 months of industrial experience,looking forward
 
 Skilled in :
 
-⁕ Coding: Python,C/C++,Asp.Net,HTML, CSS, JAVASCRIPT.
+⁕ Coding: Python,C/C++,Asp.Net,HTML, CSS, JAVASCRIPT.<br>
 ⁕ Framework: Django.
 ⁕ Database: My SQL.
 ⁕Interaction: User Research, Wireframing, Prototyping, Interaction Design, Responsive Web Design, User Testing.
