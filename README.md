@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+An enthusiastic developer,looking forward to evaluating my inherent abilities and potential.
+
+Skilled in :
+
+⁕ Coding: Python,C/C++,Asp.Net,HTML, CSS, JAVASCRIPT.
+⁕ Framework: Django.
+⁕ Database: My SQL.
+⁕Interaction: User Research, Wireframing, Prototyping, Interaction Design, Responsive Web Design, User Testing.
+⁕Visuals: Drawing, Sketching, Video editing.
+⁕Tools: Adobe XD, Figma, Adobe Photoshop.
+
+I think the best way to move forward would be to get practical working experience in an established platform.
