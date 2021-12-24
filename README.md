@@ -19,10 +19,10 @@ An enthusiastic developer with 6 months of industrial experience,looking forward
 Skilled in :
 
 ⁕ Coding: Python,C/C++,Asp.Net,HTML, CSS, JAVASCRIPT.<br>
-⁕ Framework: Django.
-⁕ Database: My SQL.
-⁕Interaction: User Research, Wireframing, Prototyping, Interaction Design, Responsive Web Design, User Testing.
-⁕Visuals: Drawing, Sketching, Video editing.
-⁕Tools: Adobe XD, Figma, Adobe Photoshop.
+⁕ Framework: Django.<br>
+⁕ Database: My SQL.<br>
+⁕Interaction: User Research, Wireframing, Prototyping, Interaction Design, Responsive Web Design, User Testing.<br>
+⁕Visuals: Drawing, Sketching, Video editing.<br>
+⁕Tools: Adobe XD, Figma, Adobe Photoshop.<br>
 
 I think the best way to move forward would be to get practical working experience in an established platform.
