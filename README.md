@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-An enthusiastic developer with 6 months of industrial experience,looking forward to evaluating my inherent abilities and potential.
+An enthusiastic developer with 9 months of industrial experience,looking forward to evaluating my inherent abilities and potential.
 
 Skilled in :
 
